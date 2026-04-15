@@ -407,6 +407,14 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>mptest__c</fullName>
+        <defaultValue>false</defaultValue>
+        <label>mptest</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>test2__c</fullName>
         <defaultValue>false</defaultValue>
         <label>test2</label>
